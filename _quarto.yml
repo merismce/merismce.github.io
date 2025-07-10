@@ -1,0 +1,37 @@
+project:
+  type: website
+  resources: assests
+
+website:
+  title: "merismce.github.io"
+  navbar:
+    background: '#4B9CD3'
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/meris-mcelveen46/  
+        target: blank
+      - icon: file-earmark-person-fill
+        href: assests/MerisMcElveen_Resume_25_updated_copy.pdf
+        target: blank
+      
+        
+    
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+#do this when ready to publish and commit 
+execute: 
+  freeze: auto 
+
+

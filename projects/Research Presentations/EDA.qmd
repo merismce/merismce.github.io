@@ -1,0 +1,15 @@
+---
+title: "EDA of stuff"
+description: 'this is my eda project for summer 25' 
+date: June 2025
+resources: "." 
+about: 
+  template: solana
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/merismce/CMU-SURE-25-EDA-Project-3.git/ 
+      #adding cover image - file must be cover.png/jpeg/jpg
+---
+
+This project focuses exploring hospital ratings in America. 

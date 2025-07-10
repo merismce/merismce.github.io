@@ -1,0 +1,25 @@
+---
+title: "Meris McElveen"
+about:
+  template: trestles
+  image: assests/MerisMcElveenHeadshot.jpg
+  image-shape: round
+  links:
+    - icon: Linkedin
+      text: Connect with me on Linkedin!
+      href: https://www.linkedin.com/in/meris-mcelveen46/  
+      target: blank
+---
+## About Me!
+
+Hi! My name is Meris and I'm a senior studying biology and information science at UNC Chapel Hill. 
+I am currently an Undergraduate researcher in the Rob Dowen Lab, studying the crosstalk between gut metabolism in C. elegans! 
+
+
+
+I am passionate about research and the cross-section between health and data analytics! Please feel free to reach about anything! 
+
+## Education
+#### University of North Carolina at Chapel Hill | Aug 2022 - Dec 2025
+
+B.S.I.S in Information Science & B.A in Biology
